@@ -1,0 +1,2 @@
+<**/*.ml>: use_framaC,use_framaCcmi
+<**/*.native>: use_framaC, use_nums, package(unix), use_bigarray, use_str, package(findlib),  use_dynlink,  package(ocamlgraph), package(zarith), use_str
